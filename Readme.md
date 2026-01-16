@@ -66,7 +66,7 @@ src/
 
 src/data folderi daxilində aşağıdakı array yaradılmalıdır:
 
-[users](src/data/users.js)
+[users](./data.js)
 
 ---
 
