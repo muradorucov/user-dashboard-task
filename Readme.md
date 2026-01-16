@@ -1,7 +1,4 @@
 # User Dashboard – React Task
-
-## Layihə Məqsədi
-
 ---
 
 ## İstifadə Olunacaq Texnologiyalar
