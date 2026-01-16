@@ -1,4 +1,4 @@
-# user Dashboard – React Task
+# User Dashboard – React Task
 
 ## Layihə Məqsədi
 
