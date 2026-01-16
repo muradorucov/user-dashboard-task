@@ -2,8 +2,6 @@
 
 ## Layihə Məqsədi
 
-Bu tapşırıq React əsaslarını möhkəmləndirmək üçün hazırlanmış praktik tapşırıqdır. Task yalnız tələbələrin artıq öyrəndiyi mövzuları əhatə edir.
-
 ---
 
 ## İstifadə Olunacaq Texnologiyalar
